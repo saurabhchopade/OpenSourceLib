@@ -14,7 +14,7 @@ import java.util.List;
 
 public class CsvToJson {
     private static final String CSVFILENAME = "/home/saurabh/IdeaProjects/OpenSourceLibraries/src/main/java/com/bridelabz/opensourcelibraries/main/data.csv";
-    static String JSONFILENAME = "/home/saurabh/IdeaProjects/OpenSourceLibraries/src/main/java/com/bridelabz/opensourcelibraries/main/jsonData.csv";
+    static String JSONFILENAME = "/home/saurabh/IdeaProjects/OpenSourceLibraries/src/main/java/com/bridelabz/opensourcelibraries/main/jsonData.json";
 
     public static void main(String[] args) throws IOException {
         try {
